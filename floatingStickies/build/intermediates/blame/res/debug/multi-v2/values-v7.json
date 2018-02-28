@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/user/Downloads/Floating Stickies/floatingStickies/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v7/values-v7.xml",
+            "map": [
+                {
+                    "source": "/Users/user/Downloads/Floating Stickies/floatingStickies/src/main/res/values-v7/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "82",
+                        "endOffsets": "95"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "81",
+                        "endOffsets": "132"
+                    }
+                }
+            ]
+        }
+    ]
+}

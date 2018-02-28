@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/layout_system_window_decorators.xml.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/layout/system_window_decorators.xml"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_drop.png.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/drop.png"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/layout_drop_down_list_item.xml.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/layout/drop_down_list_item.xml"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_close.png.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/close.png"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_down.png.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/down.png"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_icon.png.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon.png"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_share.png.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/share.png"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_banner.png.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/banner.png"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_dropshadow.9.png.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/dropshadow.9.png"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_backg1.png.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/backg1.png"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_copy.png.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/copy.png"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_backg2.png.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/backg2.png"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/anim_close.xml.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/anim/close.xml"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_backg.png.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/backg.png"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/anim_show2.xml.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/anim/show2.xml"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_banner2.png.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/banner2.png"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_paste.png.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/paste.png"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/anim_show.xml.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/anim/show.xml"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_banner1.png.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/banner1.png"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_dockglow.png.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/dockglow.png"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/anim_dock.xml.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/anim/dock.xml"
+    },
+    {
+        "merged": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_corner.png.flat",
+        "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/corner.png"
+    }
+]

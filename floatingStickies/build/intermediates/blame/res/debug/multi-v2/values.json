@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/user/Downloads/Floating Stickies/floatingStickies/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/user/Downloads/Floating Stickies/standOutSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "94,137,173,213,255,293",
+                        "endColumns": "42,35,39,41,37,51",
+                        "endOffsets": "132,168,208,250,288,340"
+                    },
+                    "to": {
+                        "startLines": "4,6,8,9,10,12",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "136,221,312,352,394,480",
+                        "endColumns": "42,35,39,41,37,51",
+                        "endOffsets": "174,252,347,389,427,527"
+                    }
+                },
+                {
+                    "source": "/Users/user/Downloads/Floating Stickies/floatingStickies/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,6,5,3,7",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "111,192,150,56,234",
+                        "endColumns": "38,41,41,54,47",
+                        "endOffsets": "145,229,187,106,277"
+                    },
+                    "to": {
+                        "startLines": "2,3,5,7,11",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,94,179,257,432",
+                        "endColumns": "38,41,41,54,47",
+                        "endOffsets": "89,131,216,307,475"
+                    }
+                }
+            ]
+        }
+    ]
+}

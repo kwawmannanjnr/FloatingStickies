@@ -1,0 +1,4 @@
+#Sat Feb 03 06:19:57 EST 2018
+base.0=/Users/user/Downloads/Floating Stickies/floatingStickies/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex

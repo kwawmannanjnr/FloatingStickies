@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Floating Stickies.iml" filepath="$PROJECT_DIR$/Floating Stickies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/floatingStickies/floatingStickies.iml" filepath="$PROJECT_DIR$/floatingStickies/floatingStickies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/standOutSDK/standOutSDK.iml" filepath="$PROJECT_DIR$/standOutSDK/standOutSDK.iml" />
+    </modules>
+  </component>
+</project>

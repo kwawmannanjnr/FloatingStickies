@@ -1,0 +1,70 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+/Users/user/Downloads/Floating Stickies
+                              -        
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From Floating Stickies:
+* .DS_Store
+* proguard-project.txt
+From StandOutSDK:
+* .DS_Store
+* build.xml
+* proguard-project.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In StandOutSDK:
+* AndroidManifest.xml => standOutSDK/src/main/AndroidManifest.xml
+* lint.xml => standOutSDK/lint.xml
+* res/ => standOutSDK/src/main/res/
+* src/ => standOutSDK/src/main/java/
+In Floating Stickies:
+* AndroidManifest.xml => floatingStickies/src/main/AndroidManifest.xml
+* lint.xml => floatingStickies/lint.xml
+* res/ => floatingStickies/src/main/res/
+* src/ => floatingStickies/src/main/java/
+* src/.DS_Store => floatingStickies/src/main/resources/.DS_Store
+* src/genius/.DS_Store => floatingStickies/src/main/resources/genius/.DS_Store
+* src/genius/mohammad/.DS_Store => floatingStickies/src/main/resources/genius/mohammad/.DS_Store
+* src/genius/mohammad/floating/.DS_Store => floatingStickies/src/main/resources/genius/mohammad/floating/.DS_Store
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
